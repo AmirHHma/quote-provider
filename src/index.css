@@ -1,4 +1,4 @@
-@import "tailwindcss";
+ @import "tailwindcss";
 
 @theme{
     --color-Light-Cyan: hsl(193, 38%, 86%);
